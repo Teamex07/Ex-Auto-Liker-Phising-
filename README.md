@@ -4,8 +4,8 @@ EX Auto Liker Phishing is a type of social engineering attack that is often used
 
 
 ## Demo
-![Logo](received_593524712507680.jpeg)
-![Logo](received_394825886065540.jpeg)
+![Logo](Screenshot_2022-12-22-08-54-38-61_c947bc2f01334259469c7019cdd76aca.jpg)
+![Logo](Screenshot_2022-12-22-08-54-51-86_df702b7687baf53f1a9fae5720e20614.jpg)
 
 ## Developer
 
